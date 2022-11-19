@@ -1,7 +1,7 @@
 # The-Rise-of-American-Expats-Project-Excel-and-Tableau-
 In this project, I will clean, analyze, and visualize my American expats database using Excel and Tableau
 
-This project aims to determine the relationship between the rise . 
+This project aims to determine the relationship between English teacher's salary, Asian cost of living and the rise of American expats in Asia.. 
 # [View my dashboard](https://public.tableau.com/app/profile/alissa.dao/viz/expats_project/Dashboard1)
 
 ## 1. About the project: 
